@@ -1,0 +1,19 @@
+{
+  "name": "input-hover-ios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "npm run serve",
+    "serve": "gulp webserver"
+  },
+  "author": "OKP",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp:": "^3.9.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
